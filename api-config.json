@@ -1,0 +1,15 @@
+{
+    "version":3,
+    "endpoints":[
+        {
+            "endpoints":"/",
+            "method":"GET",
+            "backend":[
+                {
+                    
+                }
+            ]
+
+        }
+    ]
+}
